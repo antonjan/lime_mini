@@ -25,5 +25,5 @@ LimeSuiteGUI<br>
 https://wiki.myriadrf.org/LimeSDR-USB_Quick_Test<br>
 ## Testing the transmitter in Gnuradio
 in the gnuradio radio directory is a working Transmitter testing code.
-![Lime_gnuradio_TX_1.png](Lime_gnuradio_TX_1.png?raw=true "Block diagram")<br>
+![Lime_gnuradio_TX_1.png](gnuradio/Lime_gnuradio_TX_1.png?raw=true "Block diagram")<br>
 
