@@ -37,7 +37,8 @@ https://wiki.myriadrf.org/Testing_the_LimeSDR<br>
 <br>
 LimeSuiteGUI<br>
 https://wiki.myriadrf.org/LimeSDR-USB_Quick_Test<br>
-## Testing the transmitter in Gnuradio
+## Testing the transmitter in Gnuradio.
+Link to block source https://github.com/antonjan/lime_mini/blob/master/gnuradio/Lime_transmitter_test_zr6aic.grc
 Here is a Gnuradio block that will modulate the Lime mini sdr with Fm from Microphone and 1 Khz zone.<br>
 Slide
 In the gnuradio radio directory is a working Transmitter testing code.
