@@ -45,6 +45,9 @@ In the gnuradio radio directory is a working Transmitter testing code.
 Here is the settings for the Lime mini. (you need to install the soapySDR drivers.<br>
 ![Lime_gnuradio_TX_2.png ](gnuradio/Lime_gnuradio_TX_2.png?raw=true "Block diagram")<br>
 Screenshot of Application<br>
+Changing the PTT value to 1 enables modelation.<br>
+Changing the enable tone to value 1 will switch the modelation from internal Microphone of laptop to the 1Khz tone generator.<br>
+The Moddulation can be seen in the FFT Plot box.<br>
 ![Lime_gnuradio_TX_3.png](gnuradio/Lime_gnuradio_TX_3.png?raw=true "Block diagram")<
 
 
