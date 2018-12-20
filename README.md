@@ -1,5 +1,19 @@
 # lime_mini
 This repository will have all my Lime mini configurations.
+## Installing soapysdr on ubuntu 18.10
+sudo apt-get install python3-pip python3-pyqt5 python3-numpy python3-scipy soapysdr python3-soapysdr
+#packages for soapysdr available at myriadrf PPA<br>
+/usr/share/doc/soapysdr-tools<br>
+cd /usr/share/doc/soapysdr-tools/
+sudo add-apt-repository -y ppa:myriadrf/drivers<br>
+sudo apt-get update<br>
+sudo apt-get install limesuite liblimesuite-dev limesuite-udev limesuite-images<br>
+sudo apt-get install soapysdr-tools soapysdr-module-lms7<br>
+sudo apt-get install soapysdr<br>
+LimeUtil --info<br>
+SoapySDRUtil --info<br>
+SoapySDRUtil --find="driver=lime"<br>
+
 ## Testing the Lime Mini
 LimeUtil --info<br>
 LimeUtil --find<br>
