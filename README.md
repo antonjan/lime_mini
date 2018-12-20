@@ -29,7 +29,7 @@ Slide
 In the gnuradio radio directory is a working Transmitter testing code.
 ![Lime_gnuradio_TX_1.png](gnuradio/Lime_gnuradio_TX_1.png?raw=true "Block diagram")<br>
 Here is the settings for the Lime mini. (you need to install the soapySDR drivers.<br>
-![Lime_gnuradio_TX_2.png](gnuradio/Lime_gnuradio_TX_2.png?raw=true "Block diagram")<br>
+![Lime_gnuradio_TX_2.png ](gnuradio/Lime_gnuradio_TX_2.png?raw=true "Block diagram")<br>
 Screenshot of Application<br>
 ![Lime_gnuradio_TX_3.png](gnuradio/Lime_gnuradio_TX_3.png?raw=true "Block diagram")<
 
