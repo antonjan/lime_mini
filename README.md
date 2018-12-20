@@ -40,8 +40,7 @@ https://wiki.myriadrf.org/LimeSDR-USB_Quick_Test<br>
 ## Testing the transmitter in Gnuradio.
 Link to block source https://github.com/antonjan/lime_mini/blob/master/gnuradio/Lime_transmitter_test_zr6aic.grc
 Here is a Gnuradio block that will modulate the Lime mini sdr with Fm from Microphone and 1 Khz zone.<br>
-Slide
-In the gnuradio radio directory is a working Transmitter testing code.
+In the gnuradio radio directory is a working Transmitter testing code.<br>
 ![Lime_gnuradio_TX_1.png](gnuradio/Lime_gnuradio_TX_1.png?raw=true "Block diagram")<br>
 Here is the settings for the Lime mini. (you need to install the soapySDR drivers.<br>
 ![Lime_gnuradio_TX_2.png ](gnuradio/Lime_gnuradio_TX_2.png?raw=true "Block diagram")<br>
@@ -49,6 +48,6 @@ Screenshot of Application<br>
 Changing the PTT value to 1 enables modelation.<br>
 Changing the enable tone to value 1 will switch the modelation from internal Microphone of laptop to the 1Khz tone generator.<br>
 The Moddulation can be seen in the FFT Plot box.<br>
-![Lime_gnuradio_TX_3.png](gnuradio/Lime_gnuradio_TX_3.png?raw=true "Block diagram")<
+![Lime_gnuradio_TX_3.png](gnuradio/Lime_gnuradio_TX_3.png?raw=true "Block diagram")
 
 
